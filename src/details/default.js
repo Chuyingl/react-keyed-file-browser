@@ -27,7 +27,7 @@ class Detail extends React.Component {
       <div>
         <h2>Item Detail</h2>
         <dl>
-          <dt>Key</dt>
+          <dt>Path</dt>
           <dd>{this.props.file.key}</dd>
 
           <dt>Name</dt>
